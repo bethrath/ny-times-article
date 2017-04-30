@@ -116,6 +116,7 @@ h5 {
 	color: black;
 }
 
+
 #telescope {
 	width: 1050px;
 }
@@ -128,12 +129,14 @@ h5 {
 
 .main{
 	position:relative;
+
 }
 .article {
 	display: inline-block;
 	width: 550px;
-	padding: 50px;
-	font-size: 13pt;
+	padding: 20px;
+	font-size: 14pt;
+	margin-left: 50px;
 }
 
 .comments  {
@@ -149,3 +152,55 @@ h5 {
 	border-top: 1px solid #c5c5c5;
 	margin-right: 300px;
 }
+
+.table {
+	border-top: 1px solid #c5c5c5;
+	margin-right: 300px;
+	border-bottom: 1px solid #c5c5c5;
+}
+
+#theader {
+	font-size: 14pt;
+	color: black;
+}
+
+#tcaption {
+	color: #666770;
+}
+
+.table img {
+	height: 130px;
+	float: left;
+}
+
+td {
+	font-family: arial;
+	font-size: 10pt;
+	padding: 5px;
+	line-height: 14pt;
+}
+
+.footnote {
+	color: #666770;
+}
+
+#video {
+	margin-left: -10px;
+	color: #666770;
+	font-size: 10pt;
+}
+
+#signup {
+	float: left;
+	height: 350px;
+}
+
+#telescope2 img {
+	height: 400px;
+}
+
+#telescope2 {
+	margin-right: 670px;
+	font-size: 10pt;
+}
+
